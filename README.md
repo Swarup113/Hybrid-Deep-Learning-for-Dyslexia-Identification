@@ -7,6 +7,9 @@ Dyslexia is a neurological condition that affects reading, writing, and spelling
 
 This repository presents a multimodal framework for dyslexia detection using Electroencephalography (EEG), Eye Tracking (ET), and Handwriting Text Images (HTI). The study evaluates both Machine Learning (ML) and Deep Learning (DL) approaches and proposes a hybrid CNN-BiLSTM model for improved performance and generalizability.
 
+## DOI:
+https://doi.org/10.1109/ICCCNT61001.2024.10724337
+
 ---
 
 ## Research Objectives
